@@ -1,6 +1,7 @@
 # Card game bot for discord (name to be decided)
 This game consists of a set of rules for creating your own cards,
 each player contributes to the set of cards in a game,
+
 The current theme for the card game is: *Middle Age*
 There are 2 types of cards in the game, unit cards and effect cards,
 unit cards represent entities that can deal damage and have health.
