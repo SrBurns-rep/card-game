@@ -18,3 +18,8 @@ async def on_ready():
 client.run(TOKEN)
 
 # Rest of the code: TO-DO
+
+# talk to players via inbox
+# get cards
+# create game session
+# follow states

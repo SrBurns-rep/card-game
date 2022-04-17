@@ -69,5 +69,14 @@ Epic (5%) | from 40$ to 80$ | affects at maximum 40% of health, money or damage
 Notice: *Effect cards rules are still under development*
 
 ## Gameplay
-
+### Card making step
+At this time every player will create it's cards based
+on the rules.
+### Bot card selection
+The bot will verify if a card is valid and then it will
+add to the deck if valid, the card has a chance to be rejected
+in case it changes the deck rarity balance.
+### Buying cards
+At this time, the bot decides a player to start, if a card
+is 
 TO-DO
